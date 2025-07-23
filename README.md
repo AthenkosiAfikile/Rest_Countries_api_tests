@@ -58,8 +58,8 @@ Rest_Countries_Test/
 Make sure you have the following installed:
 
 - Java 17+
-- Maven 3.8+
-- IntelliJ IDEA / Eclipse / VS Code
+- Maven 
+- IntelliJ IDEA
 
 ---
 
