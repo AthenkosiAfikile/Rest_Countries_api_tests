@@ -67,8 +67,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Rest_Countries_Test.git
-   cd Rest_Countries_Test
+   git clone https:https://github.com/AthenkosiAfikile/Rest_Countries_api_tests
+   cd Rest_Countries_api_tests
 
 
 
