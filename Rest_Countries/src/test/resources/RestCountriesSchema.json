@@ -1,0 +1,48 @@
+[
+  {
+    "name": {
+      "common": "Testland",
+      "official": "The Republic of Testland",
+      "nativeName": {
+        "tst": {
+          "official": "Testlandia",
+          "common": "Testland"
+        }
+      }
+    },
+    "cca2": "TL",
+    "cca3": "TST",
+    "region": "Test Region",
+    "subregion": "Test Subregion",
+    "capital": ["Test City"],
+    "languages": {
+      "tst": "Testish"
+    },
+    "population": 1234567,
+    "borders": ["TST", "EXM"],
+    "independent": true
+  },
+  {
+    "name": {
+      "common": "Examplestan",
+      "official": "The Federation of Examplestan",
+      "nativeName": {
+        "exm": {
+          "official": "Examplestania",
+          "common": "Examplestan"
+        }
+      }
+    },
+    "cca2": "EX",
+    "cca3": "EXM",
+    "region": "Example Region",
+    "subregion": "Example Subregion",
+    "capital": ["Exampleville"],
+    "languages": {
+      "exm": "Examplese"
+    },
+    "population": 987654,
+    "borders": ["TL"],
+    "independent": false
+  }
+]
